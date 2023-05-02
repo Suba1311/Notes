@@ -1,0 +1,17 @@
+git clone <Url> - copy the repository into local machine
+
+git status - to see the files you have made changes with and any file or folder you have added
+
+git branch - to check your current working branch
+
+git checkout -b <branch name> - to Create a new branch
+
+git checkout <branch name> - moves to another branch
+
+git add . - to add all file you have made changes to
+
+git commit -m "<your message>" - commit your changes
+
+git pull origin <branch name>
+
+git push origin <branch name>
